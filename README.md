@@ -10,7 +10,7 @@
 ## Other Documentation
 
 - [**Frontend**](./minifyimages-preact/README.md)
-- [**Server**](./minifyimages-expresjs/README.md)
+- [**Server**](./minifyimages-expressjs/README.md)
 
 ## Misc
 

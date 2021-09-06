@@ -39,6 +39,12 @@ is not specified, the server will assume that it is a lossless compression.
   "filename": "string",
 }
 ```
+| Attributes | Description |
+| :---- | :--- |
+| initialSize | File size of the initial file in bytes. |
+| finalSize | File size of the compressed file in bytes. |
+| url | URI of the compressed file. |
+| filename | Filename of the initial file. |
 
 ## Setup
 Run the following commands to setup the development server:
